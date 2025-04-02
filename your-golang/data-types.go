@@ -1,0 +1,5 @@
+package datatypes
+
+func DataTypes() {
+
+}
