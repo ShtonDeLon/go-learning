@@ -1,5 +1,0 @@
-package datatypes
-
-func DataTypes() {
-
-}
